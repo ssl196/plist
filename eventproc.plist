@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.pgyer.com/com.richfit.soc.eventproc.ipa</string>
+					<string>https://ssl196.github.io/plist/com.richfit.soc.eventproc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.pgyer.com/114x114.png</string>
+					<string>https://ssl196.github.io/plist/114x114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.pgyer.com/57x57.png</string>
+					<string>https://ssl196.github.io/plist/57x57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
