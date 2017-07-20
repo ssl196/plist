@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.0.100:8083/com.richfit.soc.eventproc.ipa</string>
+					<string>http://rayen.ngrok.cc/eventproc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
